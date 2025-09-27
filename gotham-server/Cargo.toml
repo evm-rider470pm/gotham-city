@@ -46,7 +46,7 @@ local = ["rocksdb"]
 time-test = "0.2.1"
 floating-duration.workspace = true
 criterion = "0.4.0"
-pprof = { version = "0.11", features = ["flamegraph", "frame-pointer", "criterion"] }
+pprof = { version = "0.15", features = ["flamegraph", "frame-pointer", "criterion"] }
 rand = "0.8"
 
 [[bench]]
