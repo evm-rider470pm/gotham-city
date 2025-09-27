@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.0.0 (2025-09-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* gotham-city goes gotham-engine ([#86](https://github.com/evm-rider470pm/gotham-city/issues/86))
+* new gotham
+* new gotham([#64](https://github.com/evm-rider470pm/gotham-city/issues/64))
+
+### Features
+
+* benchmarks ([340e74c](https://github.com/evm-rider470pm/gotham-city/commit/340e74cfdab854ba30c189ca809133fe12e0e709))
+* benchmarks ([340e74c](https://github.com/evm-rider470pm/gotham-city/commit/340e74cfdab854ba30c189ca809133fe12e0e709))
+* gotham-city goes gotham-engine ([#86](https://github.com/evm-rider470pm/gotham-city/issues/86)) ([4f9dd39](https://github.com/evm-rider470pm/gotham-city/commit/4f9dd39908fa8f1e78085dffc12390293bb1a6de))
+* new cli ([cf4ff66](https://github.com/evm-rider470pm/gotham-city/commit/cf4ff66c19fa124c070d18435f0236170b738961))
+* new cli ([cf4ff66](https://github.com/evm-rider470pm/gotham-city/commit/cf4ff66c19fa124c070d18435f0236170b738961))
+* new gotham ([ba09eea](https://github.com/evm-rider470pm/gotham-city/commit/ba09eea397cb3c490f5e2b5e0270f59e6b4e1326))
+* new gotham([#64](https://github.com/evm-rider470pm/gotham-city/issues/64)) ([ba09eea](https://github.com/evm-rider470pm/gotham-city/commit/ba09eea397cb3c490f5e2b5e0270f59e6b4e1326))
+
 ## [2.0.0](https://github.com/ZenGo-X/gotham-city/compare/v1.2.0...v2.0.0) (2023-11-23)
 
 
